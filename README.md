@@ -5,6 +5,8 @@ FiveM illegal weapons shop
 This is an illegal weapons shop that i have added in bt-target and nh-context compatible
 there may be some errors i dont know but works as of now.
 
+LIMITED SUPPORT ON THIS
+ 
 requirements
 - <a href="https://github.com/brentN5/bt-target/" 
    style="text-decoration: none">BT-TARGET</a>
