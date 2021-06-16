@@ -109,11 +109,11 @@ Citizen.CreateThread(function()
 end)
 RegisterNetEvent('supreme_illegalitems', function()
 Citizen.CreateThread(function()
-    local biker = {
+    local dealer = {
 		`ig_g`
     }
 
-    exports['bt-target']:AddTargetModel(biker, {
+    exports['bt-target']:AddTargetModel(dealer, {
         options = {
             {
                 event = 'supreme_illegalitems',
