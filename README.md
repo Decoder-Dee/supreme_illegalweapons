@@ -6,13 +6,15 @@ This is an illegal weapons shop that i have added in bt-target and nh-context co
 there may be some errors i dont know but works as of now.
 
 requirements
-bt-target https://github.com/brentN5/bt-target
-nh-context https://github.com/nerohiro/nh-context
+- <a href="https://github.com/brentN5/bt-target/" 
+   style="text-decoration: none">BT-TARGET</a>
+- <a href="https://github.com/nerohiro/nh-context" 
+   style="text-decoration: none">NH CONTEXT</a>
 
 Big shout out to these guys for there awesome work!!
 
 
-video preview
+- video preview
 https://streamable.com/9gpi63
 
 
