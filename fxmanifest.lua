@@ -1,6 +1,5 @@
--- Resource Metadata
 fx_version 'cerulean'
-games { 'rdr3', 'gta5' }
+games { 'gta5' }
 
 author 'Bunch Of People'
 description 'supreme_illegalweapons'
